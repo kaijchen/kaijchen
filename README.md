@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- ⚡️ I’m currently working on distributed storage systems for big data.
-- ❤️ My [contributions](foss/contributions) to Free and Open Source Software.
+- 🌱 I’m interested in distributed systems.
+- ❤️ My [contributions](foss/contributions.md) to FOSS.
 
 <!--
 **kaijchen/kaijchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
