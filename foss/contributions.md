@@ -9,6 +9,9 @@
   * [HDDS-5705](https://issues.apache.org/jira/browse/HDDS-5705). Change ByteBufStreamOutput to ByteBufferStreamOutput
 * [HDDS-4120](https://issues.apache.org/jira/browse/HDDS-4120). Implement cleanup service for OM open key table
   * [HDDS-6216](https://issues.apache.org/jira/browse/HDDS-6216). Move OMOpenKeysDeleteRequest to package om.request.key
+* [HDDS-3816](https://issues.apache.org/jira/browse/HDDS-3816). Erasure Coding
+  * [HDDS-6194](https://issues.apache.org/jira/browse/HDDS-6194). EC: Freon ockg support EC write
+  * [HDDS-6294](https://issues.apache.org/jira/browse/HDDS-6294). EC: Make cluster-wide EC configuration take effect
 
 ## Alluxio
 
