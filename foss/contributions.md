@@ -12,7 +12,14 @@
 * [HDDS-3816](https://issues.apache.org/jira/browse/HDDS-3816). Erasure Coding
   * [HDDS-6194](https://issues.apache.org/jira/browse/HDDS-6194). EC: Freon ockg support EC write
   * [HDDS-6294](https://issues.apache.org/jira/browse/HDDS-6294). EC: Make cluster-wide EC configuration take effect
+  * [HDDS-6347](https://issues.apache.org/jira/browse/HDDS-6347). EC: Freon randomKeys EC key support
+  * [HDDS-6232](https://issues.apache.org/jira/browse/HDDS-6232). EC: Update help strings for replication config
+  * [HDDS-6358](https://issues.apache.org/jira/browse/HDDS-6358). EC: Refactor ECKeyOutputStream#write()
+  * [HDDS-6372](https://issues.apache.org/jira/browse/HDDS-6372). EC: Do not throw NotImplementedException in flush()
 * [HDDS-6329](https://issues.apache.org/jira/browse/HDDS-6329). New checkstyle: AvoidStarImport
+* [HDDS-6376](https://issues.apache.org/jira/browse/HDDS-6376). Docs: Fix classpath for ofs and o3fs
+* [HDDS-6431](https://issues.apache.org/jira/browse/HDDS-6431). Fix usedBytes for FSO bucket
+
 
 ## Alluxio
 
