@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m interested in distributed systems.
+- 🌱 I’m interested in distributed systems and system software.
 - ❤️ My [contributions](foss/contributions.md) to FOSS.
 
 <!--
