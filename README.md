@@ -1,3 +1,6 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kaijchen&show_icons=true&theme=gruvbox_light" />
+
+
 ### Hi there 👋
 
 - 🌱 I’m interested in distributed systems and system software.
