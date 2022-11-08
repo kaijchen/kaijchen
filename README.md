@@ -5,7 +5,7 @@
 
 - 🌱 I’m interested in distributed systems and system software.
 - 🔭 I’m currently working on [Alluxio](https://github.com/alluxio/alluxio).
-- 🪶 I'm a committer of [Apache Ozone](https://github.com/apache/ozone) and [Apache Uniffle](https://github.com/apache/incubator-uniffle).
+- 🪶 I'm a committer of [Apache Ozone](https://github.com/apache/ozone) and [Apache Uniffle (incubating)](https://github.com/apache/incubator-uniffle).
 - ❤️ I enjoy being a part of open source community.
 
 <!--
