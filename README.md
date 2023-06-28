@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 - 🌱 I’m interested in distributed systems and system software.
-- 🔭 I’m currently working on [Apache Doris](https://github.com/apache/ratis).
+- 🔭 I’m currently working on [Apache Doris](https://github.com/apache/doris).
 - 🪶 I'm a committer of [Apache Ozone](https://github.com/apache/ozone) and [Apache Uniffle (incubating)](https://github.com/apache/incubator-uniffle).
 - ❤️ I enjoy being a member of open source community.
 
