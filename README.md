@@ -3,7 +3,6 @@
 
 ### Hi there 👋
 
-Hi there 👋
 - 🌱 I’m passionate about distributed systems and system software.
 - 🔭 Currently working on  [Apache Doris](https://github.com/apache/doris).
 - 🪶 PMC member for [Apache Ozone](https://github.com/apache/ozone) and committer for [Apache Uniffle](https://github.com/apache/incubator-uniffle).
