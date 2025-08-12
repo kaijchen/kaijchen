@@ -3,10 +3,11 @@
 
 ### Hi there 👋
 
-- 🌱 I’m interested in distributed systems and system software.
-- 🔭 I’m currently working on [Apache Doris](https://github.com/apache/doris).
-- 🪶 I'm a committer of [Apache Ozone](https://github.com/apache/ozone) and [Apache Uniffle (incubating)](https://github.com/apache/incubator-uniffle).
-- ❤️ I enjoy being a member of open source community.
+Hi there 👋
+- 🌱 I’m passionate about distributed systems and system software.
+- 🔭 Currently working on  [Apache Doris](https://github.com/apache/doris).
+- 🪶 PMC member for [Apache Ozone](https://github.com/apache/ozone) and committer for [Apache Uniffle](https://github.com/apache/incubator-uniffle).
+- ❤️ I enjoy contributing to the open-source community.
 
 <!--
 **kaijchen/kaijchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
