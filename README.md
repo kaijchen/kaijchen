@@ -3,10 +3,10 @@
 
 ### Hi there 👋
 
-- 🌱 I’m passionate about distributed systems and system software.
-- 🔭 Currently working on  [Apache Doris](https://github.com/apache/doris).
-- 🪶 PMC member for [Apache Ozone](https://github.com/apache/ozone) and committer for [Apache Uniffle](https://github.com/apache/incubator-uniffle).
-- ❤️ I enjoy contributing to the open-source community.
+- 🌱 I’m passionate about distributed systems and the data + AI stack.
+- 🔭 I'm a Software Engineer at ByteDance, where I focus on cloud-native and serverless [Milvus](https://github.com/milvus-io/milvus).
+- 🪶 I'm an [Apache Ozone](https://github.com/apache/ozone) PMC member, an [Apache Uniffle](https://github.com/apache/uniffle) Committer, and a contributor to [Apache Doris](https://github.com/apache/doris).
+- ❤️ I'm a strong open-source advocate and love contributing back to the community.
 
 <!--
 **kaijchen/kaijchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
