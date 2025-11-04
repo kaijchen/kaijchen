@@ -1,6 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kaijchen&show_icons=true&theme=buefy" />
-
-
 ### Hi there 👋
 
 - 🌱 I’m passionate about distributed systems and the data + AI stack.
