@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Passionate about **distributed systems** and the **data + AI** stack.
+- 🌱 Passionate about **distributed systems** and the **data + AI stack**.
 - 🔭 Software Engineer at **ByteDance**, focusing on cloud-native and serverless [Milvus](https://github.com/milvus-io/milvus).
 - 🪶 [Apache Ozone](https://github.com/apache/ozone) PMC member, [Apache Uniffle](https://github.com/apache/uniffle) Committer, and contributor to [Apache Doris](https://github.com/apache/doris).
 - ❤️ Strong open-source advocate and love contributing back to the community.
